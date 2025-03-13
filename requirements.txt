@@ -1,2 +1,8 @@
 ipykernel
 python-dotenv
+pandas
+numpy
+seaborn
+plotly
+scikit-learn
+requests
